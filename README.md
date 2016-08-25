@@ -1,7 +1,9 @@
 # ui-route-subview-examples
 UI route example with sub-views
 
-### container
+Here is main sub-states:
+
+### Container
 
 - container renders to root ui-view, use resolver to validate permissions. The container has two views: header and main area.
 
